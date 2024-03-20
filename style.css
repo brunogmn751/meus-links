@@ -1,0 +1,11 @@
+:root{
+
+}
+
+body{
+    background-image: url(imagens/fundo.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+background-attachment: fixed;
+}
